@@ -1,0 +1,44 @@
+.slider h3,
+.slider h5 {
+    text-shadow: 1px 1px 3px rgba(0,0,0,0,7);
+}
+
+.parallax-container {
+    height: 220px;
+    font-style: italic;
+    font-size: 50px;
+}
+
+.card .card-image img {
+    display: block;
+    position: static;
+    height: 160px;
+    width: 190px;
+    background-image: none;
+    margin: 0rem 0rem 0rem 0rem;
+}
+
+.row .col {
+
+    padding-top: 0rem;
+    padding-left: 0.5rem;
+    padding-right: 0rem;
+    padding-bottom: 0rem;
+}
+
+div {
+    display: block;
+}
+
+.row {
+    margin-bottom: 0px;
+}
+
+section, footer {
+    padding: 20px 0;
+}
+
+
+
+
+
